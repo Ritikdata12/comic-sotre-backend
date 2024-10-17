@@ -1,0 +1,203 @@
+[
+    {
+      "bookName": "The Amazing Spider-Man",
+      "authorName": "Stan Lee",
+      "yearOfPublication": 1963,
+      "price": 10,
+      "discount": 2,
+      "numberOfPages": 32,
+      "condition": "new",
+      "description": "The first appearance of Spider-Man in Amazing Fantasy #15."
+    },
+    {
+      "bookName": "Batman: Year One",
+      "authorName": "Frank Miller",
+      "yearOfPublication": 1987,
+      "price": 15,
+      "discount": 1,
+      "numberOfPages": 80,
+      "condition": "used",
+      "description": "A gritty retelling of Batman's origin story."
+    },
+    {
+      "bookName": "Superman: Red Son",
+      "authorName": "Mark Millar",
+      "yearOfPublication": 2003,
+      "price": 20,
+      "discount": 3,
+      "numberOfPages": 120,
+      "condition": "new",
+      "description": "What if Superman had been raised in the Soviet Union?"
+    },
+    {
+      "bookName": "X-Men: Days of Future Past",
+      "authorName": "Chris Claremont",
+      "yearOfPublication": 1981,
+      "price": 12,
+      "discount": 2,
+      "numberOfPages": 48,
+      "condition": "new",
+      "description": "A storyline about the dystopian future of mutants."
+    },
+    {
+      "bookName": "The Flash: Rebirth",
+      "authorName": "Geoff Johns",
+      "yearOfPublication": 2009,
+      "price": 18,
+      "discount": 2,
+      "numberOfPages": 112,
+      "condition": "used",
+      "description": "Barry Allen returns as the fastest man alive."
+    },
+    {
+      "bookName": "Green Lantern: Secret Origin",
+      "authorName": "Geoff Johns",
+      "yearOfPublication": 2008,
+      "price": 14,
+      "discount": 1,
+      "numberOfPages": 144,
+      "condition": "new",
+      "description": "A fresh take on the origins of Hal Jordan as Green Lantern."
+    },
+    {
+      "bookName": "Wonder Woman: The Hiketeia",
+      "authorName": "Greg Rucka",
+      "yearOfPublication": 2002,
+      "price": 13,
+      "discount": 2,
+      "numberOfPages": 96,
+      "condition": "new",
+      "description": "An intense story about Wonder Woman's honor and duty."
+    },
+    {
+      "bookName": "Thor: God of Thunder",
+      "authorName": "Jason Aaron",
+      "yearOfPublication": 2012,
+      "price": 16,
+      "discount": 3,
+      "numberOfPages": 200,
+      "condition": "used",
+      "description": "Thor battles a god-killer across time and space."
+    },
+    {
+      "bookName": "Iron Man: Extremis",
+      "authorName": "Warren Ellis",
+      "yearOfPublication": 2005,
+      "price": 17,
+      "discount": 1,
+      "numberOfPages": 144,
+      "condition": "new",
+      "description": "Tony Stark upgrades his suit in response to a deadly threat."
+    },
+    {
+      "bookName": "Captain America: Winter Soldier",
+      "authorName": "Ed Brubaker",
+      "yearOfPublication": 2005,
+      "price": 22,
+      "discount": 2,
+      "numberOfPages": 240,
+      "condition": "used",
+      "description": "The story of Captain America's lost friend, Bucky Barnes."
+    },
+    {
+      "bookName": "Daredevil: Born Again",
+      "authorName": "Frank Miller",
+      "yearOfPublication": 1986,
+      "price": 14,
+      "discount": 2,
+      "numberOfPages": 136,
+      "condition": "new",
+      "description": "A story of Matt Murdock's downfall and redemption."
+    },
+    {
+      "bookName": "Justice League: Tower of Babel",
+      "authorName": "Mark Waid",
+      "yearOfPublication": 2000,
+      "price": 19,
+      "discount": 3,
+      "numberOfPages": 128,
+      "condition": "used",
+      "description": "Batman’s contingency plans against the Justice League are exposed."
+    },
+    {
+      "bookName": "Aquaman: The Trench",
+      "authorName": "Geoff Johns",
+      "yearOfPublication": 2011,
+      "price": 12,
+      "discount": 1,
+      "numberOfPages": 144,
+      "condition": "new",
+      "description": "Aquaman faces off against monstrous creatures from the ocean depths."
+    },
+    {
+      "bookName": "The Incredible Hulk: Planet Hulk",
+      "authorName": "Greg Pak",
+      "yearOfPublication": 2006,
+      "price": 24,
+      "discount": 3,
+      "numberOfPages": 300,
+      "condition": "used",
+      "description": "The Hulk becomes a gladiator on an alien planet."
+    },
+    {
+      "bookName": "Black Panther: A Nation Under Our Feet",
+      "authorName": "Ta-Nehisi Coates",
+      "yearOfPublication": 2016,
+      "price": 25,
+      "discount": 2,
+      "numberOfPages": 160,
+      "condition": "new",
+      "description": "T'Challa faces political unrest in Wakanda."
+    },
+    {
+      "bookName": "Guardians of the Galaxy: Cosmic Avengers",
+      "authorName": "Brian Michael Bendis",
+      "yearOfPublication": 2013,
+      "price": 20,
+      "discount": 1,
+      "numberOfPages": 120,
+      "condition": "new",
+      "description": "The Guardians unite to protect the galaxy."
+    },
+    {
+      "bookName": "Doctor Strange: The Oath",
+      "authorName": "Brian K. Vaughan",
+      "yearOfPublication": 2007,
+      "price": 16,
+      "discount": 2,
+      "numberOfPages": 120,
+      "condition": "used",
+      "description": "Doctor Strange must save his friend while battling mystical forces."
+    },
+    {
+      "bookName": "Deadpool: The Good, The Bad and The Ugly",
+      "authorName": "Brian Posehn",
+      "yearOfPublication": 2014,
+      "price": 18,
+      "discount": 2,
+      "numberOfPages": 96,
+      "condition": "new",
+      "description": "Deadpool teams up with Wolverine and Captain America."
+    },
+    {
+      "bookName": "Harley Quinn: Hot in the City",
+      "authorName": "Amanda Conner",
+      "yearOfPublication": 2014,
+      "price": 15,
+      "discount": 1,
+      "numberOfPages": 200,
+      "condition": "new",
+      "description": "Harley Quinn starts her solo adventures in Gotham."
+    },
+    {
+      "bookName": "The Punisher: War Journal",
+      "authorName": "Carl Potts",
+      "yearOfPublication": 1988,
+      "price": 14,
+      "discount": 1,
+      "numberOfPages": 150,
+      "condition": "used",
+      "description": "Frank Castle wages war on crime as The Punisher."
+    }
+  ]
+  
